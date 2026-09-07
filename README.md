@@ -6,7 +6,7 @@
   <img alt="Mingkai Gao — AI applications. Reliable by design. Backend systems, agent architecture, and evaluation." src="assets/header-light.svg" width="100%">
 </picture>
 
-I'm **Mingkai**, an MSCS student at **Northeastern University** 
+Hi, I'm **Mingkai**, an MSCS student at **Northeastern University** 
 
 ### A few questions I keep in the loop
 
