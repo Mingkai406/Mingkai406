@@ -1,9 +1,9 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/header-mobile-dark.svg?v=20260907-editorial">
-  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/header-mobile-light.svg?v=20260907-editorial">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg?v=20260907-editorial">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg?v=20260907-editorial">
-  <img alt="Good systems start with better questions." src="assets/header-light.svg?v=20260907-editorial" width="100%">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mingkai406/Mingkai406/eb48e7efdb1fba4201a598b489740d59c14eb4bd/assets/header-mobile-dark.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mingkai406/Mingkai406/eb48e7efdb1fba4201a598b489740d59c14eb4bd/assets/header-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mingkai406/Mingkai406/eb48e7efdb1fba4201a598b489740d59c14eb4bd/assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mingkai406/Mingkai406/eb48e7efdb1fba4201a598b489740d59c14eb4bd/assets/header-light.svg">
+  <img alt="Good systems start with better questions." src="https://raw.githubusercontent.com/Mingkai406/Mingkai406/eb48e7efdb1fba4201a598b489740d59c14eb4bd/assets/header-light.svg" width="100%">
 </picture>
 
 Hi, I'm **Mingkai**, an MSCS student at **Northeastern University** 
