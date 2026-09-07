@@ -1,14 +1,201 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="252" viewBox="0 0 1000 252" role="img" aria-labelledby="title desc">
-<title id="title">Mingkai Gao — AI applications. Reliable by design.</title><desc id="desc">Software engineering, backend systems and evaluation. A diagram connects build, observe and verify, with a recovery loop.</desc>
-<rect width="1000" height="252" rx="16" fill="#f6f9f9"/>
-<path d="M36 34H72" stroke="#087f72" stroke-width="3"/>
-<text x="85" y="39" fill="#536c77" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2.5">MINGKAI GAO / SOFTWARE ENGINEER</text>
-<text x="36" y="106" fill="#152b35" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="700" letter-spacing="-1.5">AI applications.</text>
-<text x="36" y="157" fill="#152b35" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="700" letter-spacing="-1.5">Reliable by design.</text>
-<text x="38" y="212" fill="#536c77" font-family="Arial,Helvetica,sans-serif" font-size="16">Backend systems · Agent architecture · Evaluation</text>
-<g stroke="#ccdcd9" fill="none" stroke-width="1.5"><path d="M678 107H702M802 107H826"/><path d="M879 133V174Q879 187 866 187H640Q627 187 627 174V133" stroke-dasharray="4 5"/></g>
-<g fill="#eaf2f1" stroke="#ccdcd9"><rect x="576" y="80" width="102" height="54" rx="9"/><rect x="702" y="80" width="100" height="54" rx="9"/><rect x="826" y="80" width="107" height="54" rx="9"/></g>
-<g fill="#152b35" font-family="monospace" font-size="15" text-anchor="middle"><text x="627" y="112">build()</text><text x="752" y="112">observe()</text><text x="879" y="112">verify()</text></g>
-<circle cx="692" cy="107" r="3" fill="#087f72"/><circle cx="814" cy="107" r="3" fill="#087f72"/>
-<rect x="709" y="177" width="90" height="20" fill="#f6f9f9"/><text x="754" y="191" text-anchor="middle" fill="#087f72" font-family="monospace" font-size="12">iterate</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="184" viewBox="0 0 1000 184" role="img" aria-labelledby="title desc">
+<!-- Hallmark · component: profile banner · genre: editorial · typography only
+     Pre-emit critique: philosophy 4, hierarchy 4, execution 4, specificity 4, restraint 5, variety 4.
+     Letterforms outlined from Instrument Serif Regular and IBM Plex Sans Regular.
+     No external resources, scripts, motion, or interactive elements.
+Copyright 2022 The Instrument Serif Project Authors (https://github.com/Instrument/instrument-serif)
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+https://scripts.sil.org/OFL
+
+
+—————————————————————————————-
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+—————————————————————————————-
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded, 
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting — in part or in whole — any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+
+Copyright © 2017 IBM Corp. with Reserved Font Name "Plex"
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+
+This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
+
+
+—————————————————————————————-
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+—————————————————————————————-
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded, 
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting — in part or in whole — any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+
+-->
+<title id="title">Good systems start with better questions.</title>
+<desc id="desc">A two-line typographic statement in serif and sans-serif lettering.</desc>
+<style>:root { --color-paper: oklch(98.3% 0.006 80); --color-ink: oklch(23% 0.012 258); --color-secondary: oklch(42% 0.03 245); } .paper { fill: var(--color-paper); } .ink { fill: var(--color-ink); } .secondary { fill: var(--color-secondary); }</style>
+<rect width="1000" height="184" class="paper"/>
+<g class="ink" transform="translate(24,78) scale(0.068,-0.068)"><path transform="translate(0.000,0)" d="M291 -9Q210 -9 154.0 37.0Q98 83 69.0 166.5Q40 250 40 364Q40 474 74.0 556.5Q108 639 167.5 684.5Q227 730 304 730Q343 730 375.0 722.5Q407 715 431 703Q444 696 444 682L447 530Q447 513 435 513Q424 513 421 526L413 556Q391 639 363.0 670.0Q335 701 286 701Q213 701 165.5 614.5Q118 528 118 364Q118 195 166.5 106.5Q215 18 291 18Q332 18 353.0 36.0Q374 54 374 103V322Q374 343 367.5 351.0Q361 359 340 361L301 365Q288 366 288 377Q288 388 303 388H486Q501 388 501 376Q501 367 490 365L475 363Q453 360 449.0 351.0Q445 342 445 321V50Q445 39 439.0 32.5Q433 26 418 18Q394 6 363.0 -1.5Q332 -9 291 -9Z"/><path transform="translate(521.000,0)" d="M203 -9Q152 -9 111.5 25.5Q71 60 47.0 120.0Q23 180 23 254Q23 328 47.0 387.0Q71 446 112.0 481.0Q153 516 203 516Q254 516 294.5 481.0Q335 446 359.0 387.0Q383 328 383 254Q383 180 359.5 120.0Q336 60 295.0 25.5Q254 -9 203 -9ZM203 16Q307 16 307 254Q307 491 203 491Q99 491 99 254Q99 16 203 16Z"/><path transform="translate(929.000,0)" d="M203 -9Q152 -9 111.5 25.5Q71 60 47.0 120.0Q23 180 23 254Q23 328 47.0 387.0Q71 446 112.0 481.0Q153 516 203 516Q254 516 294.5 481.0Q335 446 359.0 387.0Q383 328 383 254Q383 180 359.5 120.0Q336 60 295.0 25.5Q254 -9 203 -9ZM203 16Q307 16 307 254Q307 491 203 491Q99 491 99 254Q99 16 203 16Z"/><path transform="translate(1337.000,0)" d="M181 -9Q137 -9 102.5 21.5Q68 52 49.0 106.5Q30 161 30 233Q30 317 56.0 380.5Q82 444 128.0 480.0Q174 516 232 516Q246 516 260.0 513.5Q274 511 287 505Q303 497 303 512V640Q303 658 297.5 665.0Q292 672 278 673L252 676Q241 678 241 688Q241 698 252 700Q284 706 303.5 714.0Q323 722 336 730Q352 740 360 740Q371 740 371 724V95Q371 53 392 53Q405 53 416.0 70.5Q427 88 427 130Q427 146 440 146Q452 146 452 129Q452 56 427.0 23.5Q402 -9 370 -9Q341 -9 326.0 10.5Q311 30 306 57Q305 65 299.0 65.5Q293 66 288 58Q260 19 237.0 5.0Q214 -9 181 -9ZM203 37Q229 37 251.5 54.5Q274 72 288.5 102.0Q303 132 303 169V394Q303 439 282.5 465.0Q262 491 229 491Q173 491 138.5 425.5Q104 360 104 247Q104 144 130.5 90.5Q157 37 203 37Z"/><path transform="translate(1964.000,0)" d="M131 -9Q108 -9 82.0 -3.5Q56 2 40 10Q31 15 31 27L28 139Q28 156 41 156Q52 156 56 140Q73 69 97.5 43.0Q122 17 157 17Q186 17 205.0 39.5Q224 62 224 102Q224 142 202.0 173.0Q180 204 128 241Q76 276 52.0 311.5Q28 347 28 389Q28 446 68.0 481.0Q108 516 174 516Q194 516 213.0 511.5Q232 507 247 497Q256 491 256 481L258 371Q258 356 246 356Q239 356 236.0 360.5Q233 365 231 372Q211 437 191.0 462.5Q171 488 142 488Q116 488 99.0 470.0Q82 452 82 425Q82 390 103.0 364.0Q124 338 179 300Q229 264 254.5 222.5Q280 181 280 132Q280 68 239.0 29.5Q198 -9 131 -9Z"/><path transform="translate(2272.000,0)" d="M83 -205Q56 -205 40.0 -186.5Q24 -168 24 -144Q24 -125 35.0 -112.0Q46 -99 65 -99Q81 -99 88.0 -106.0Q95 -113 98.0 -122.0Q101 -131 104.0 -138.0Q107 -145 116 -145Q127 -145 136.0 -129.5Q145 -114 161 -64Q171 -34 173.5 -12.0Q176 10 172.5 35.0Q169 60 157 96L48 443Q41 467 34.5 474.0Q28 481 14 484L-1 487Q-14 490 -14 500Q-14 510 0 510H165Q179 510 179 500Q179 489 166 487L150 485Q126 482 119.5 473.5Q113 465 120 443L208 150Q211 140 217.5 140.0Q224 140 227 150L312 425Q320 452 316.5 465.5Q313 479 288 483L267 487Q254 490 254 500Q254 510 268 510H395Q409 510 409 499Q409 489 397 485L388 482Q373 477 363.0 464.0Q353 451 342 419L193 -46Q171 -116 153.5 -150.0Q136 -184 120.0 -194.5Q104 -205 83 -205Z"/><path transform="translate(2673.000,0)" d="M131 -9Q108 -9 82.0 -3.5Q56 2 40 10Q31 15 31 27L28 139Q28 156 41 156Q52 156 56 140Q73 69 97.5 43.0Q122 17 157 17Q186 17 205.0 39.5Q224 62 224 102Q224 142 202.0 173.0Q180 204 128 241Q76 276 52.0 311.5Q28 347 28 389Q28 446 68.0 481.0Q108 516 174 516Q194 516 213.0 511.5Q232 507 247 497Q256 491 256 481L258 371Q258 356 246 356Q239 356 236.0 360.5Q233 365 231 372Q211 437 191.0 462.5Q171 488 142 488Q116 488 99.0 470.0Q82 452 82 425Q82 390 103.0 364.0Q124 338 179 300Q229 264 254.5 222.5Q280 181 280 132Q280 68 239.0 29.5Q198 -9 131 -9Z"/><path transform="translate(2981.000,0)" d="M147 -9Q112 -9 89.5 15.5Q67 40 67 96V470Q67 482 55 482H26Q10 482 10 494Q10 502 19 508Q52 531 72.0 557.5Q92 584 107 630Q114 651 124 651Q135 651 135 635V524Q135 510 149 510H214Q230 510 230 496Q230 482 214 482H149Q135 482 135 468V95Q135 73 142.0 60.5Q149 48 168 48Q189 48 202.5 69.0Q216 90 220 137Q222 151 233 151Q245 151 245 136Q242 59 213.5 25.0Q185 -9 147 -9Z"/><path transform="translate(3240.000,0)" d="M192 -9Q144 -9 106.0 23.0Q68 55 45.5 113.5Q23 172 23 249Q23 328 46.0 388.0Q69 448 109.0 482.0Q149 516 198 516Q257 516 293.5 467.5Q330 419 330 310Q330 277 305 277H115Q95 277 95 254Q95 148 126.0 95.0Q157 42 205 42Q243 42 267.0 69.0Q291 96 306 160Q309 171 319 171Q331 171 328 151Q312 62 277.0 26.5Q242 -9 192 -9ZM112 302H213Q261 302 261 352Q261 417 245.0 454.0Q229 491 197 491Q158 491 131.5 446.0Q105 401 97 318Q95 302 112 302Z"/><path transform="translate(3595.000,0)" d="M30 0Q15 0 15 11Q15 20 28 23L40 25Q61 29 67.5 37.5Q74 46 74 67V403Q74 421 68.5 427.5Q63 434 49 436L28 439Q15 440 15 450Q15 458 31 461Q62 466 78.5 477.0Q95 488 113 504Q122 513 128 513Q137 513 137 501V456Q137 449 143.0 445.5Q149 442 156 449Q197 488 227.5 502.0Q258 516 289 516Q318 516 340.5 500.5Q363 485 374 454Q377 446 384.5 444.5Q392 443 399 450Q440 488 470.0 502.0Q500 516 531 516Q573 516 599.5 484.5Q626 453 626 392V67Q626 46 632.5 37.5Q639 29 660 26L682 23Q693 21 693 11Q693 0 681 0H510Q496 0 496 11Q496 21 507 23L521 25Q544 28 551.0 37.0Q558 46 558 67V381Q558 430 540.5 450.0Q523 470 493 470Q463 470 438.5 451.5Q414 433 399.0 402.5Q384 372 384 335V67Q384 46 391.0 37.5Q398 29 420 26L442 23Q453 21 453 11Q453 0 441 0H271Q257 0 257 11Q257 21 268 23L282 25Q303 28 309.5 37.0Q316 46 316 67V381Q316 430 298.5 450.0Q281 470 251 470Q221 470 196.5 451.5Q172 433 157.0 402.5Q142 372 142 335V67Q142 46 148.5 37.0Q155 28 176 26L203 23Q214 21 214 12Q214 0 199 0Z"/><path transform="translate(4299.000,0)" d="M131 -9Q108 -9 82.0 -3.5Q56 2 40 10Q31 15 31 27L28 139Q28 156 41 156Q52 156 56 140Q73 69 97.5 43.0Q122 17 157 17Q186 17 205.0 39.5Q224 62 224 102Q224 142 202.0 173.0Q180 204 128 241Q76 276 52.0 311.5Q28 347 28 389Q28 446 68.0 481.0Q108 516 174 516Q194 516 213.0 511.5Q232 507 247 497Q256 491 256 481L258 371Q258 356 246 356Q239 356 236.0 360.5Q233 365 231 372Q211 437 191.0 462.5Q171 488 142 488Q116 488 99.0 470.0Q82 452 82 425Q82 390 103.0 364.0Q124 338 179 300Q229 264 254.5 222.5Q280 181 280 132Q280 68 239.0 29.5Q198 -9 131 -9Z"/></g>
+<g class="secondary" transform="translate(24,138) scale(0.042,-0.042)"><path transform="translate(0.000,0)" d="M240 -12Q169 -12 120.0 15.5Q71 43 36 89L93 135Q123 98 160.0 77.0Q197 56 246 56Q297 56 325.5 78.0Q354 100 354 140Q354 170 334.5 192.0Q315 214 264 221L223 227Q176 234 138.0 250.5Q100 267 78.5 297.5Q57 328 57 376Q57 453 109.5 490.5Q162 528 241 528Q283 528 315.5 518.0Q348 508 374.0 489.5Q400 471 421 445L368 397Q351 421 318.0 440.5Q285 460 235 460Q186 460 160.0 438.5Q134 417 134 380Q134 343 159.5 325.5Q185 308 233 300L273 294Q359 281 395.0 244.5Q431 208 431 149Q431 99 408.0 63.0Q385 27 342.0 7.5Q299 -12 240 -12Z"/><path transform="translate(487.000,0)" d="M299 0H199Q158 0 136.0 24.0Q114 48 114 85V446H29V516H77Q103 516 112.5 526.5Q122 537 122 563V659H194V516H307V446H194V70H299Z"/><path transform="translate(838.000,0)" d="M505 0H460Q428 0 408.0 13.5Q388 27 379.0 51.0Q370 75 370 106V113L401 84H366Q350 37 310.5 12.5Q271 -12 217 -12Q135 -12 89.5 30.0Q44 72 44 144Q44 193 68.0 226.5Q92 260 140.5 277.5Q189 295 264 295H366V346Q366 401 336.0 430.0Q306 459 244 459Q198 459 166.0 438.0Q134 417 113 382L65 427Q86 468 132.0 498.0Q178 528 248 528Q341 528 393.5 482.0Q446 436 446 354V70H505ZM366 235H260Q192 235 160.0 215.0Q128 195 128 157V136Q128 98 156.0 77.0Q184 56 230 56Q270 56 300.5 68.5Q331 81 348.5 102.5Q366 124 366 150Z"/><path transform="translate(1372.000,0)" d="M165 0H85V516H165V421H170Q179 446 198.0 467.5Q217 489 247.0 502.5Q277 516 319 516H350V436H303Q260 436 229.0 424.5Q198 413 181.5 394.0Q165 375 165 350Z"/><path transform="translate(1739.000,0)" d="M299 0H199Q158 0 136.0 24.0Q114 48 114 85V446H29V516H77Q103 516 112.5 526.5Q122 537 122 563V659H194V516H307V446H194V70H299Z"/><path transform="translate(2326.000,0)" d="M169 0 31 516H109L164 293L219 67H221L284 293L349 516H420L487 293L551 67H553L606 293L662 516H737L600 0H501L429 248L384 405H382L338 248L266 0Z"/><path transform="translate(3094.000,0)" d="M125 637Q100 637 88.0 649.5Q76 662 76 682V695Q76 715 88.0 727.5Q100 740 125 740Q151 740 162.5 727.5Q174 715 174 695V682Q174 662 162.5 649.5Q151 637 125 637ZM85 0V516H165V0Z"/><path transform="translate(3344.000,0)" d="M299 0H199Q158 0 136.0 24.0Q114 48 114 85V446H29V516H77Q103 516 112.5 526.5Q122 537 122 563V659H194V516H307V446H194V70H299Z"/><path transform="translate(3695.000,0)" d="M85 0V740H165V432H169Q188 476 222.5 502.0Q257 528 315 528Q395 528 441.5 476.5Q488 425 488 331V0H408V317Q408 386 378.5 421.0Q349 456 291 456Q259 456 230.0 445.5Q201 435 183.0 413.0Q165 391 165 358V0Z"/><path transform="translate(4499.000,0)" d="M85 0V740H165V432H169Q189 481 228.0 504.5Q267 528 320 528Q385 528 432.0 495.0Q479 462 504.5 401.5Q530 341 530 258Q530 176 504.5 115.0Q479 54 432.0 21.0Q385 -12 320 -12Q267 -12 229.5 12.0Q192 36 169 84H165V0ZM298 60Q366 60 405.0 102.5Q444 145 444 214V302Q444 371 405.0 413.5Q366 456 298 456Q262 456 231.5 443.0Q201 430 183.0 408.0Q165 386 165 357V165Q165 132 183.0 108.5Q201 85 231.5 72.5Q262 60 298 60Z"/><path transform="translate(5079.000,0)" d="M279 -12Q209 -12 157.0 21.5Q105 55 76.0 115.5Q47 176 47 258Q47 340 76.0 400.5Q105 461 157.0 494.5Q209 528 279 528Q348 528 398.0 495.5Q448 463 475.0 406.0Q502 349 502 276V238H131V214Q131 147 171.5 102.5Q212 58 284 58Q333 58 369.5 81.0Q406 104 426 147L483 106Q458 54 405.0 21.0Q352 -12 279 -12ZM279 461Q236 461 202.5 441.0Q169 421 150.0 385.5Q131 350 131 305V298H416V309Q416 355 399.0 389.0Q382 423 351.0 442.0Q320 461 279 461Z"/><path transform="translate(5628.000,0)" d="M299 0H199Q158 0 136.0 24.0Q114 48 114 85V446H29V516H77Q103 516 112.5 526.5Q122 537 122 563V659H194V516H307V446H194V70H299Z"/><path transform="translate(5979.000,0)" d="M299 0H199Q158 0 136.0 24.0Q114 48 114 85V446H29V516H77Q103 516 112.5 526.5Q122 537 122 563V659H194V516H307V446H194V70H299Z"/><path transform="translate(6330.000,0)" d="M279 -12Q209 -12 157.0 21.5Q105 55 76.0 115.5Q47 176 47 258Q47 340 76.0 400.5Q105 461 157.0 494.5Q209 528 279 528Q348 528 398.0 495.5Q448 463 475.0 406.0Q502 349 502 276V238H131V214Q131 147 171.5 102.5Q212 58 284 58Q333 58 369.5 81.0Q406 104 426 147L483 106Q458 54 405.0 21.0Q352 -12 279 -12ZM279 461Q236 461 202.5 441.0Q169 421 150.0 385.5Q131 350 131 305V298H416V309Q416 355 399.0 389.0Q382 423 351.0 442.0Q320 461 279 461Z"/><path transform="translate(6879.000,0)" d="M165 0H85V516H165V421H170Q179 446 198.0 467.5Q217 489 247.0 502.5Q277 516 319 516H350V436H303Q260 436 229.0 424.5Q198 413 181.5 394.0Q165 375 165 350Z"/><path transform="translate(7482.000,0)" d="M415 -200V84H411Q388 36 350.5 12.0Q313 -12 260 -12Q196 -12 148.5 21.0Q101 54 75.5 115.0Q50 176 50 258Q50 341 75.5 401.5Q101 462 148.5 495.0Q196 528 260 528Q313 528 352.0 504.5Q391 481 411 432H415V516H495V-200ZM282 60Q319 60 349.0 72.5Q379 85 397.0 108.5Q415 132 415 165V357Q415 386 397.0 408.0Q379 430 349.0 443.0Q319 456 282 456Q215 456 175.5 413.5Q136 371 136 302V214Q136 145 175.5 102.5Q215 60 282 60Z"/><path transform="translate(8062.000,0)" d="M403 0V84H399Q384 47 351.5 17.5Q319 -12 254 -12Q175 -12 127.5 39.5Q80 91 80 185V516H160V199Q160 130 190.0 95.0Q220 60 278 60Q310 60 338.5 70.5Q367 81 385.0 103.0Q403 125 403 159V516H483V0Z"/><path transform="translate(8630.000,0)" d="M279 -12Q209 -12 157.0 21.5Q105 55 76.0 115.5Q47 176 47 258Q47 340 76.0 400.5Q105 461 157.0 494.5Q209 528 279 528Q348 528 398.0 495.5Q448 463 475.0 406.0Q502 349 502 276V238H131V214Q131 147 171.5 102.5Q212 58 284 58Q333 58 369.5 81.0Q406 104 426 147L483 106Q458 54 405.0 21.0Q352 -12 279 -12ZM279 461Q236 461 202.5 441.0Q169 421 150.0 385.5Q131 350 131 305V298H416V309Q416 355 399.0 389.0Q382 423 351.0 442.0Q320 461 279 461Z"/><path transform="translate(9179.000,0)" d="M240 -12Q169 -12 120.0 15.5Q71 43 36 89L93 135Q123 98 160.0 77.0Q197 56 246 56Q297 56 325.5 78.0Q354 100 354 140Q354 170 334.5 192.0Q315 214 264 221L223 227Q176 234 138.0 250.5Q100 267 78.5 297.5Q57 328 57 376Q57 453 109.5 490.5Q162 528 241 528Q283 528 315.5 518.0Q348 508 374.0 489.5Q400 471 421 445L368 397Q351 421 318.0 440.5Q285 460 235 460Q186 460 160.0 438.5Q134 417 134 380Q134 343 159.5 325.5Q185 308 233 300L273 294Q359 281 395.0 244.5Q431 208 431 149Q431 99 408.0 63.0Q385 27 342.0 7.5Q299 -12 240 -12Z"/><path transform="translate(9666.000,0)" d="M299 0H199Q158 0 136.0 24.0Q114 48 114 85V446H29V516H77Q103 516 112.5 526.5Q122 537 122 563V659H194V516H307V446H194V70H299Z"/><path transform="translate(10017.000,0)" d="M125 637Q100 637 88.0 649.5Q76 662 76 682V695Q76 715 88.0 727.5Q100 740 125 740Q151 740 162.5 727.5Q174 715 174 695V682Q174 662 162.5 649.5Q151 637 125 637ZM85 0V516H165V0Z"/><path transform="translate(10267.000,0)" d="M280 -12Q211 -12 158.5 21.5Q106 55 76.5 115.5Q47 176 47 258Q47 340 76.5 400.5Q106 461 158.5 494.5Q211 528 280 528Q349 528 401.5 494.5Q454 461 483.5 400.5Q513 340 513 258Q513 176 483.5 115.5Q454 55 401.5 21.5Q349 -12 280 -12ZM280 59Q345 59 386.0 99.0Q427 139 427 221V295Q427 377 386.0 417.0Q345 457 280 457Q216 457 174.5 417.0Q133 377 133 295V221Q133 139 174.5 99.0Q216 59 280 59Z"/><path transform="translate(10827.000,0)" d="M165 0H85V516H165V432H169Q188 476 222.5 502.0Q257 528 315 528Q395 528 441.5 476.5Q488 425 488 331V0H408V317Q408 386 378.5 421.0Q349 456 291 456Q259 456 230.0 445.5Q201 435 183.0 413.0Q165 391 165 358Z"/><path transform="translate(11395.000,0)" d="M240 -12Q169 -12 120.0 15.5Q71 43 36 89L93 135Q123 98 160.0 77.0Q197 56 246 56Q297 56 325.5 78.0Q354 100 354 140Q354 170 334.5 192.0Q315 214 264 221L223 227Q176 234 138.0 250.5Q100 267 78.5 297.5Q57 328 57 376Q57 453 109.5 490.5Q162 528 241 528Q283 528 315.5 518.0Q348 508 374.0 489.5Q400 471 421 445L368 397Q351 421 318.0 440.5Q285 460 235 460Q186 460 160.0 438.5Q134 417 134 380Q134 343 159.5 325.5Q185 308 233 300L273 294Q359 281 395.0 244.5Q431 208 431 149Q431 99 408.0 63.0Q385 27 342.0 7.5Q299 -12 240 -12Z"/><path transform="translate(11882.000,0)" d="M136 -12Q105 -12 90.0 4.5Q75 21 75 46V59Q75 85 90.0 101.0Q105 117 136 117Q168 117 182.5 101.0Q197 85 197 59V46Q197 21 182.5 4.5Q168 -12 136 -12Z"/></g>
 </svg>
