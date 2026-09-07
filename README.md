@@ -1,9 +1,6 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mingkai406/Mingkai406/eb48e7efdb1fba4201a598b489740d59c14eb4bd/assets/header-mobile-dark.svg">
-  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mingkai406/Mingkai406/eb48e7efdb1fba4201a598b489740d59c14eb4bd/assets/header-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mingkai406/Mingkai406/eb48e7efdb1fba4201a598b489740d59c14eb4bd/assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mingkai406/Mingkai406/eb48e7efdb1fba4201a598b489740d59c14eb4bd/assets/header-light.svg">
-  <img alt="Good systems start with better questions." src="https://raw.githubusercontent.com/Mingkai406/Mingkai406/eb48e7efdb1fba4201a598b489740d59c14eb4bd/assets/header-light.svg" width="100%">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Mingkai406/Mingkai406/2c49c411529a1ce492cb3dfc34df9270c2d90eb4/assets/header-reference-mobile.svg">
+  <img alt="Good systems start with better questions. A computer in blue clouds with ASCII textures." src="https://raw.githubusercontent.com/Mingkai406/Mingkai406/2c49c411529a1ce492cb3dfc34df9270c2d90eb4/assets/header-reference.svg" width="100%">
 </picture>
 
 Hi, I'm **Mingkai**, an MSCS student at **Northeastern University** 
