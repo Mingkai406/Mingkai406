@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Mingkai406/Mingkai406/2c49c411529a1ce492cb3dfc34df9270c2d90eb4/assets/header-reference-mobile.svg">
-  <img alt="Good systems start with better questions. A computer in blue clouds with ASCII textures." src="https://raw.githubusercontent.com/Mingkai406/Mingkai406/2c49c411529a1ce492cb3dfc34df9270c2d90eb4/assets/header-reference.svg" width="100%">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Mingkai406/Mingkai406/3e1e87d08464f5b648e843283256868300f35d70/assets/header-reference-mobile.svg">
+  <img alt="Good systems start with better questions. A computer in blue clouds with ASCII textures." src="https://raw.githubusercontent.com/Mingkai406/Mingkai406/3e1e87d08464f5b648e843283256868300f35d70/assets/header-reference.svg" width="100%">
 </picture>
 
 Hi, I'm **Mingkai**, an MSCS student at **Northeastern University** 
