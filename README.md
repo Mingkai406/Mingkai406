@@ -4,7 +4,7 @@
 </picture>
 
 
-### Hi, I'm **Mingkai**, an MSCS student at **Northeastern University** 
+### Hi, I'm **Mingkai**,
 ### A few questions I keep in the loop
 
 ```python
