@@ -1,6 +1,4 @@
-<img src="assets/header-reference.svg" width="480" alt="Good systems start with better questions.">
-
-## Hi, I’m Mingkai. <a href="https://tenor.com/view/kirby-transparent-wave-gif-11957111898946824481"><img src="https://media.tenor.com/pfAx66xSaSEAAAAj/kirby-transparent.gif" alt="Kirby waving" width="40" height="40" align="absmiddle"></a>
+## Hi, I’m Mingkai (名闿) <a href="https://tenor.com/view/kirby-transparent-wave-gif-11957111898946824481"><img src="https://media.tenor.com/pfAx66xSaSEAAAAj/kirby-transparent.gif" alt="Kirby waving" width="40" height="40" align="absmiddle"></a>
 
 I’m a software engineer and MSCS student at Northeastern University in Silicon Valley. I build full-stack applications and AI systems, connecting backend infrastructure with interactive experiences.
 
